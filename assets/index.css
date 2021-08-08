@@ -1,7 +1,7 @@
 
 
 body{
-    background-color: #ffd209;
+    background-color: #f0f0f0;
     color:black;
     text-align: center;
     font-family: 'Bangers';
@@ -74,7 +74,7 @@ body{
         font-size: 25px;
         position: absolute;
         left: 100px;
-        color: rgb(134, 127, 85)
+        color: black
     }
 
     .icon{
@@ -86,10 +86,10 @@ body{
     }
 
     #hm-logo{
-        width: 30vw;
+        width: 25vw;
         position: relative;
-        top: 50px;
-        left: 1vw;
+        top: 80px;
+        left: -20vw;
     }
 
     .l-cntn-m{
@@ -98,7 +98,7 @@ body{
 
     .l-cntn{
         position: relative;
-        top: -110px;
+        top: -200px;
         width: 40vw;
         z-index: 2;
         bottom: 170px;
@@ -200,7 +200,7 @@ body{
     .abt{
         position: absolute;
         width:50%;
-        left: 30%;
+        left: 40%;
     }
 
     .tokenomic{
